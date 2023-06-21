@@ -109,18 +109,25 @@ html{
     display: flex;
     flex-direction: column;
     text-align: justify;    
-    padding: 30px;
-}  
+    padding: 10px;
+} 
+#intro ul{
+    display: flex;
+    flex-direction: column;
+    text-align: justify;    
+    padding: 20px;
+}
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
+    margin: 10px;
 }
 #intro h2 {
     display: flex;
     flex-direction: column;
     text-align: justify;
     padding: 10px;  
-    margin-block: 15px;
+    margin-block: 5px;
 }  
 
 /* Portofolio Section */
